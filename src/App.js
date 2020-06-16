@@ -22,6 +22,7 @@ class App extends React.Component {
     this.addItem = this.addItem.bind(this);
     this.deleteItem = this.deleteItem.bind(this);
     this.setUpdate = this.setUpdate.bind(this);
+    this.deleteAll = this.deleteAll.bind(this);
   }
 
   handleInput(event) {
@@ -70,6 +71,12 @@ class App extends React.Component {
     });
   }
 
+  deleteAll() {
+    this.setState({
+      items: [],
+    });
+  }
+
   render() {
     return (
       <div className="App">
@@ -82,6 +89,9 @@ class App extends React.Component {
               onChange={this.handleInput}
             />
             <button type="submit">Add</button>
+            <button id="delete-button" type="submit" onClick={this.deleteAll}>
+              Delete All
+            </button>
           </form>
         </header>
         <ListItems
