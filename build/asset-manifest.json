@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//github.com/nileshjaat/React-todo/static/css/main.8aae9bf1.chunk.css",
+    "main.js": "//github.com/nileshjaat/React-todo/static/js/main.97e7b6df.chunk.js",
+    "main.js.map": "//github.com/nileshjaat/React-todo/static/js/main.97e7b6df.chunk.js.map",
+    "runtime-main.js": "//github.com/nileshjaat/React-todo/static/js/runtime-main.6b66d309.js",
+    "runtime-main.js.map": "//github.com/nileshjaat/React-todo/static/js/runtime-main.6b66d309.js.map",
+    "static/js/2.d188e0b7.chunk.js": "//github.com/nileshjaat/React-todo/static/js/2.d188e0b7.chunk.js",
+    "static/js/2.d188e0b7.chunk.js.map": "//github.com/nileshjaat/React-todo/static/js/2.d188e0b7.chunk.js.map",
+    "index.html": "//github.com/nileshjaat/React-todo/index.html",
+    "precache-manifest.b79bab14e45b0db021a3bdd30ec44953.js": "//github.com/nileshjaat/React-todo/precache-manifest.b79bab14e45b0db021a3bdd30ec44953.js",
+    "service-worker.js": "//github.com/nileshjaat/React-todo/service-worker.js",
+    "static/css/main.8aae9bf1.chunk.css.map": "//github.com/nileshjaat/React-todo/static/css/main.8aae9bf1.chunk.css.map",
+    "static/js/2.d188e0b7.chunk.js.LICENSE.txt": "//github.com/nileshjaat/React-todo/static/js/2.d188e0b7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//github.com/nileshjaat/React-todo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b66d309.js",
+    "static/js/2.d188e0b7.chunk.js",
+    "static/css/main.8aae9bf1.chunk.css",
+    "static/js/main.97e7b6df.chunk.js"
+  ]
+}
